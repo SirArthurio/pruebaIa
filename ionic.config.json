@@ -1,0 +1,7 @@
+{
+  "name": "parcialesia-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
